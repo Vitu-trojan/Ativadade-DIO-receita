@@ -1,6 +1,7 @@
-#Lasanha Tradicional
+# Lasanha Tradicional
 
-###Ingredientes
+### Ingredientes
+
  - 1 massa de lasanha (pronta)
  - 500 g de presunto
  - 500 g de queijo mussarela
@@ -9,8 +10,9 @@
  - sal a gosto
  - pimenta-do-reino a gosto
  - orégano a gosto
- 
-###MODO DE PREPARO
+
+### MODO DE PREPARO
+
  1. Cozinhe a massa da lasanha em aproximadamente em 2 litros de água por 5 minutos.
 
  2. Em uma panela cozinhe a carne moída, depois de cozida coloque molho de tomate, o sal e temperos a gosto.
